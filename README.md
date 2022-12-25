@@ -15,7 +15,7 @@ python main.py [-h] [-o <OBSTACLE_MAP_PATTERN>]
 ## Results
 ### ORIGINAL map
 <img src="https://i.imgur.com/2CVt3Oq.png" style="width:30%"><img src="https://i.imgur.com/MeRw2WM.png" style="width:30%"><img src="https://i.imgur.com/kZ8mk6q.png" style="width:30%">
-### V map
+### ROOF map
 <img src="https://i.imgur.com/qGtBlWI.png" style="width:30%"><img src="https://i.imgur.com/cxemSbn.png" style="width:30%"><img src="https://i.imgur.com/7QkHiho.png" style="width:30%">
 ### M map
 <img src="https://i.imgur.com/DoTUj5g.png" style="width:30%"><img src="https://i.imgur.com/9wUQZme.png" style="width:30%"><img src="https://i.imgur.com/DprBqhX.png" style="width:30%">
