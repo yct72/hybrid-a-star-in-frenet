@@ -11,7 +11,7 @@ def main():
     parser = argparse.ArgumentParser(
     description='''An experiment for applying Hybrid A* path to Frenet's optimal trajectory.''')
     parser.add_argument('-o', '--obstacle-map-pattern', type=str,
-                        choices=['ORIGINAL', 'STRAIGHT_ROAD', 'SQUARE', 'V', 'LARGE_V', 'W'],
+                        choices=['ORIGINAL', 'STRAIGHT_ROAD', 'SQUARE', 'ROOF', 'LARGE_V', 'M'],
                         default='ORIGINAL', help='obstacle map pattern')
     args = parser.parse_args()
 

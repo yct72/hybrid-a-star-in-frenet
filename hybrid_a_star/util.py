@@ -308,7 +308,7 @@ class ObstacleMap:
             goal = SimpleNode(55.0, 5.0, np.deg2rad(90.0))
             
         
-        if PATTERN == 'V':
+        if PATTERN == 'ROOF':
             for i in range(6):
                 ox.append(i)
                 oy.append(0)
@@ -380,7 +380,7 @@ class ObstacleMap:
             start = SimpleNode(5, 1.5, np.deg2rad(45.0))
             goal = SimpleNode(35, -7, np.deg2rad(-45.0))
 
-        if PATTERN == 'W':
+        if PATTERN == 'M':
             for i in range(-5, 1):
                 ox.append(i)
                 oy.append(-5)
